@@ -34,5 +34,11 @@ public ActionResult Create(Animal animal)
     return RedirectToAction("Index");
 }
 
+public ActionResult Details(int id)
+{
+  Animal thisAnimal = _db.Animals.FirstOrDefault(animal => animal.AnimalId == id);
+  return View(thisAnimal);
+
+}
 }
 }
