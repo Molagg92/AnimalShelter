@@ -2,7 +2,7 @@
 
 #### _Application to "insert generic description here"_
 
-#### By **YOUR NAME HERE**
+#### By **Erik, Eva and Alejandra **
 
 ## Technologies Used
 
