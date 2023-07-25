@@ -1,4 +1,4 @@
-namespace ToDoList.Models
+namespace AnimalShelter.Models
 {
   public static class DBConfiguration
   {

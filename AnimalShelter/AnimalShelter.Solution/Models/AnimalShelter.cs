@@ -7,7 +7,7 @@ namespace AnimalShelter.Models
     //private static List<Animal> _animalInstance = new List<Animal> {};
     public string TypeId { get; set; }
     public string Name { get; set; }
-    public int age { get; set; }
+    public int Age { get; set; }
     public string DateOfAdmittance { get; set; }
     public string FavoriteFood { get; set; }
 
